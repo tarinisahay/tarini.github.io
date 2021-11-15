@@ -40,7 +40,7 @@ Java, MATLAB, C++, R-programming, Python, Linux, SQL, TestRail, Jira, Confluence
 
 
 ### 👩🏼‍🎓 Education
-Arizona State University - Tempe, AZ	08/2019 – Present
+Arizona State University (Tempe, AZ)	08/2019 – Present
 <br>
 **Computer Science, BS**
 - Dean’s List (GPA > 3.5)
