@@ -1,5 +1,5 @@
-# Tarini Sahay
-Sunnyvale, CA / [Email](tarinisahay2001@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tarinisahay)
+## Tarini Sahay
+**Sunnyvale, CA / [Email](tarinisahay2001@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tarinisahay)**
 
 ### Experience
 **Software Engineer Intern @ RapidAI**							                                                      08/2021 – 09/2021
