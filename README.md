@@ -1,7 +1,7 @@
 # Tarini Sahay
 Sunnyvale, CA / [Email](tarinisahay2001@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tarinisahay)
 
-### EXPERIENCE
+### Experience
 **Software Engineer Intern @ RapidAI**							                                                      08/2021 – 09/2021
 - Tools used: TypeScript, GitHub, Confluence, Jira
 - Developed script to map keys from multiple JSON files and return overlaps between the files
@@ -31,23 +31,23 @@ Sunnyvale, CA / [Email](tarinisahay2001@gmail.com) / [LinkedIn](https://www.link
 -	Performing statistical and graphical analysis using R as well as created models for analysis
 -	Led tutorial on phytools package for 18 lab members
     - Topics included: Brownian motion, creating and understanding graphs, and creating vectors
+<br><br>
 
 
-
-### SKILLS
+### Skills
 Java, MATLAB, C++, R-programming, Python, Linux, SQL, TestRail, Jira, Confluence, Microsoft Office, Google Suite, Typescript, GitHub, Javascript, Agile methodologies, plan driven methodologies, Astah, Microsoft Projects
+<br><br>
 
 
-
-### EDUCATION
+### Education
 Arizona State University - Tempe, AZ							                                                          08/2019 – Present
 Computer Science, BS 
 - Dean’s List (GPA > 3.5)
 - Anticipated graduation: December 2022
+<br><br>
 
 
-
-### PROJECTS
+### Projects
 **Pediatric Automation Tool**
 -	Elected role of Product Manager
 -	Tools used: Jira, Microsoft Projects, Astah, Java, GitHub
@@ -62,6 +62,6 @@ Computer Science, BS
 -	Debugged and optimized other students’ code
 -	Managed project from initiation to completion
 -	Impact: Gained experience as a manager, gained software development, testing, and deployment experience
-
+<br><br>
 
 
