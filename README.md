@@ -1,3 +1,0 @@
-# Tarini Sahay
-
-
