@@ -11,7 +11,7 @@
     - Created script to consolidate information sheets for existing software to read it with higher accuracy
 
 
-**V&V Engineer Intern @ RapidAI**							                                                              07/2021 – 08/2021
+**V&V Engineer Intern @ RapidAI**							                                                      07/2021 – 08/2021
 -	Tools used: TestRail, Jira, Confluence, Microsoft Office Suite, Google Suite
 -	Consolidated design and product specs for testing
 -	Created performance metrics for builds and releases
