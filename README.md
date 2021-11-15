@@ -1,5 +1,5 @@
 # Tarini Sahay
-### Sunnyvale, CA | (408) 702-8758 | tarinisahay2001@gmail.com | [LinkedIn](https://www.linkedin.com/in/tarinisahay)
+###### Sunnyvale, CA | (408) 702-8758 | [Email](tarinisahay2001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tarinisahay)
 
 You can use the [editor on GitHub](https://github.com/tarinisahay/tarinisahay.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
