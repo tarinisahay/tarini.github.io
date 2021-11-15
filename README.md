@@ -40,7 +40,8 @@ Java, MATLAB, C++, R-programming, Python, Linux, SQL, TestRail, Jira, Confluence
 
 
 ### 👩🏼‍🎓 Education
-Arizona State University - Tempe, AZ							                                                          08/2019 – Present
+Arizona State University - Tempe, AZ	08/2019 – Present
+<br>
 Computer Science, BS 
 - Dean’s List (GPA > 3.5)
 - Anticipated graduation: December 2022
@@ -53,7 +54,7 @@ Computer Science, BS
 -	Tools used: Jira, Microsoft Projects, Astah, Java, GitHub
 -	Project idea: reduce paperwork and increase accessibility of patient records
 -	Impact: Led team to successful creation of product, developed software, guided team through project timeline
--	
+	
 
 **[Autonomous Robot](https://www.youtube.com/watch?v=vMwlfnuUiF4&feature=youtu.be)**
 -	Led and collaborated with 3 other students in building and coding a robot for its autonomous navigation
