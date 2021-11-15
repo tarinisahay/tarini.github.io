@@ -1,36 +1,57 @@
 # Tarini Sahay
 Sunnyvale, CA / [Email](tarinisahay2001@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tarinisahay)
 
-You can use the [editor on GitHub](https://github.com/tarinisahay/tarinisahay.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## EXPERIENCE
+**Software Engineer Intern @ RapidAI**							                                                      08/2021 – 09/2021
+- Tools used: TypeScript, GitHub, Confluence, Jira
+- Developed script to map keys from multiple JSON files and return overlaps between the files
+- Developed script to automate consolidating and changing columns from Google Sheets
+- Impact: 
+    - Organized and improved the current infrastructure by writing code to prevent overlaps in information among different teams
+    - Created script to consolidate information sheets for existing software to read it with higher accuracy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**V&V Engineer Intern @ RapidAI**							                                                              07/2021 – 08/2021
+-	Tools used: TestRail, Jira, Confluence, Microsoft Office Suite, Google Suite
+-	Consolidated design and product specs for testing
+-	Created performance metrics for builds and releases
+-	Impact: 
+    - Streamlined the V&V team’s testing process by presenting repeated test cases and test cases that were shared between the platform and cloud side.
+    - Measured the performance of the cloud apps team from development to release, to increase efficiency and identify areas of improvement
 
-### Markdown
+**Team Lead/Technical Project Manager @ Arizona State University Biodesign Institute**                      01/2021 – Present
+- Leading a project and research paper on phylogenetics to understand how body size evolution affects cancer prevalence in mammals, sauropsids, and amphibians
+- Using ML regression plots of ancestral state reconstruction, using fastAnc, contMap, dplyr, etc
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Research Assistant @ Arizona State University Biodesign Institute**			                                  04/2020 – Present
+- Working with a team of 20+ undergraduate and graduate students, and researchers at [Arizona Cancer Evolution Center](https://cancer-insights.asu.edu)
+-	Using R and Excel to filter, organize, and display data
+-	Performing statistical and graphical analysis using R as well as created models for analysis
+-	Led tutorial on phytools package for 18 lab members
+    - Topics included: Brownian motion, creating and understanding graphs, and creating vectors
 
-```markdown
-Syntax highlighted code block
+**SKILLS**
+Java, MATLAB, C++, R-programming, Python, Linux, SQL, TestRail, Jira, Confluence, Microsoft Office, Google Suite, Typescript, GitHub, Javascript, Agile methodologies, plan driven methodologies, Astah, Microsoft Projects
 
-# Header 1
-## Header 2
-### Header 3
+**EDUCATION** 
+Arizona State University - Tempe, AZ							                                                          08/2019 – Present
+Computer Science, BS 
+- Dean’s List (GPA > 3.5)
+- Anticipated graduation: December 2022
 
-- Bulleted
-- List
+**PROJECTS**
+Pediatric Automation Tool
+-	Elected role of Product Manager
+-	Tools used: Jira, Microsoft Projects, Astah, Java, GitHub
+-	Project idea: reduce paperwork and increase accessibility of patient records
+-	Impact: Led team to successful creation of product, developed software, guided team through project timeline
 
-1. Numbered
-2. List
+[Autonomous Robot](https://www.youtube.com/watch?v=vMwlfnuUiF4&feature=youtu.be)
+-	Led and collaborated with 3 other students in building and coding a robot for its autonomous navigation
+-	Tools used: Lego Mindstorms with NXT, MATLAB
+-	Wrote code for robot to initialize and understand different inputs given through it through color sensors
+-	Debugged and optimized other students’ code
+-	Managed project from initiation to completion
+-	Impact: Gained experience as a manager, gained software development, testing, and deployment experience
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tarinisahay/tarinisahay.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
