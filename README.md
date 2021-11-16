@@ -75,6 +75,7 @@ Arizona State University (Tempe, AZ)	08/2019 – Present
 	- Creatively thinking of ways to host events and meetings remotely, while keeping members engaged 
 	- Partnering with other organizations to host events 
 	- Inviting guest speakers for events
+	<br>
 -- Successfully held a virtual carnival, partnering with reemi.org and co-hosting with the Beta Chi Theta fraternity, in order to fundraise for reemi.org and spread awareness for menstrual equity.
 <br><br>
 
