@@ -65,5 +65,17 @@ Arizona State University (Tempe, AZ)	08/2019 – Present
 -	Impact: Gained experience as a manager, gained software development, testing, and deployment experience
 <br><br>
 
+### ♣️ Organizations
+**Unified Students of South Asia** May 2020 - April 2021
+**Board Member - Events Director**
+- Elected board member as Events Director for 2020 – 2021 school year
+- Responsible for: 
+	- Directing and organizing all events
+	- Creatively thinking of ways to host events and meetings remotely, while keeping members engaged 
+	- Partnering with other organizations to host events 
+	- Inviting guest speakers for events
+-- Successfully held a virtual carnival, partnering with reemi.org and co-hosting with the Beta Chi Theta fraternity, in order to fundraise for reemi.org and spread awareness for menstrual equity.
+<br><br>
+
 ### 📚Coursework
 Operating Systems, Principles of Programming Languages, Intro to Theoretical Computer Science, Intro to Software Engineering, Information Assurance, Data Structures and Algorithms, Applied Linear Algebra, Intro to Programming Languages, Computer Org/Assembly Language, Discrete Math Structures, Object Oriented Programming and Data Structures, Digital Design Fundamentals, Principles of Programming, Undergraduate Research, Calculus I with Analytical Geometry, Calcukus II for Engineers, Calculus III for Engineers
