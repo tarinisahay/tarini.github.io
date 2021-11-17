@@ -66,7 +66,7 @@ Arizona State University (Tempe, AZ)	08/2019 – Present
 <br><br>
 
 ### ♣️ Organizations
-**Unified Students of South Asia** May 2020 - April 2021
+**Unified Students of South Asia** 05/2020 - 05/2021
 <br>
 **Board Member - Events Director**
 - Elected board member as Events Director for 2020 – 2021 school year
