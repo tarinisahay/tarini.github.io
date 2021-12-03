@@ -59,7 +59,7 @@ Arizona State University (Tempe, AZ)	08/2019 – Present
 **[Autonomous Robot](https://www.youtube.com/watch?v=vMwlfnuUiF4&feature=youtu.be)**
 -	Led and collaborated with 3 other students in building and coding a robot for its autonomous navigation
 -	Tools used: Lego Mindstorms with NXT, MATLAB
--	Wrote code for robot to initialize and understand different inputs given through it through color sensors
+-	Wrote code for robot to initialize and understand different inputs given to it through color sensors
 -	Debugged and optimized other students’ code
 -	Managed project from initiation to completion
 -	Impact: Gained experience as a manager, gained software development, testing, and deployment experience
