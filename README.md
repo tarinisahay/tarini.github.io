@@ -53,7 +53,7 @@ Arizona State University (Tempe, AZ)	08/2019 – Present
 -	Elected role of Product Manager
 -	Tools used: Jira, Microsoft Projects, Astah, Java, GitHub
 -	Project idea: reduce paperwork and increase accessibility of patient records
--	Impact: Led team to successful creation of product, developed software, guided team through project timeline
+-	Impact: Led team to successful creation of product, developed software, guided team through SDLC and Product Lifecycle
 	
 
 **[Autonomous Robot](https://www.youtube.com/watch?v=vMwlfnuUiF4&feature=youtu.be)**
