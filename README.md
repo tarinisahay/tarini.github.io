@@ -20,12 +20,12 @@
     - Measured the performance of the cloud apps team from development to release, to increase efficiency and identify areas of improvement
 
 
-**Team Lead @ Arizona State University Biodesign Institute**                      01/2021 – 12/2021
+**Team Lead @ Arizona State University Biodesign Institute**                      01/2021 – Present
 - Led a project and research paper on phylogenetics to understand how body size evolution affects cancer prevalence in mammals, sauropsids, and amphibians
 - Used ML regression plots of ancestral state reconstruction, using fastAnc, contMap, dplyr, etc
 
 
-**Research Assistant @ Arizona State University Biodesign Institute**			                                  04/2020 – 12/2021
+**Research Assistant @ Arizona State University Biodesign Institute**			                                  04/2020 – Present
 - Worked with a team of 20+ undergraduate and graduate students, and researchers at [Arizona Cancer Evolution Center](https://cancer-insights.asu.edu)
 -	Used R and Excel to filter, organize, and display data
 -	Performed statistical and graphical analysis using R as well as created models for analysis
