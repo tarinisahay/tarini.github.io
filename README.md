@@ -20,12 +20,12 @@
     - Measured the performance of the cloud apps team from development to release, to increase efficiency and identify areas of improvement
 
 
-**Team Lead @ Arizona State University Biodesign Institute**                      01/2021 – Present
+**Team Lead @ Arizona State University Biodesign Institute**                      01/2021 – 12/2021
 - Led a project and research paper on phylogenetics to understand how body size evolution affects cancer prevalence in mammals, sauropsids, and amphibians
 - Used ML regression plots of ancestral state reconstruction, using fastAnc, contMap, dplyr, etc
 
 
-**Research Assistant @ Arizona State University Biodesign Institute**			                                  04/2020 – Present
+**Research Assistant @ Arizona State University Biodesign Institute**			                                  04/2020 – 12/2021
 - Worked with a team of 20+ undergraduate and graduate students, and researchers at [Arizona Cancer Evolution Center](https://cancer-insights.asu.edu)
 -	Used R and Excel to filter, organize, and display data
 -	Performed statistical and graphical analysis using R as well as created models for analysis
@@ -35,7 +35,7 @@
 
 
 ### 🎯 Skills
-Java, MATLAB, C++, R-programming, Python, Linux, SQL, TestRail, Jira, Confluence, Microsoft Office, Google Suite, Typescript, GitHub, Javascript, Agile methodologies, plan driven methodologies, Astah, Microsoft Projects
+Java, MATLAB, C++, R-programming, Python, Linux, SQL, TestRail, Jira, Confluence, Microsoft Office, Google Suite, Typescript, GitHub, Javascript, Agile methodologies, plan driven methodologies, Astah, Microsoft Projects, JavaFX, JUnit
 <br><br>
 
 
@@ -80,4 +80,4 @@ Arizona State University (Tempe, AZ)	08/2019 – Present
 <br><br>
 
 ### 📚Coursework
-Operating Systems, Principles of Programming Languages, Intro to Theoretical Computer Science, Intro to Software Engineering, Information Assurance, Data Structures and Algorithms, Applied Linear Algebra, Intro to Programming Languages, Computer Org/Assembly Language, Discrete Math Structures, Object Oriented Programming and Data Structures, Digital Design Fundamentals, Principles of Programming, Undergraduate Research, Calculus I with Analytical Geometry, Calcukus II for Engineers, Calculus III for Engineers
+Operating Systems, Principles of Programming Languages, Intro to Theoretical Computer Science, Database Management, Intro to Human Computer Interaction, Probability & Statistics Engineer Problem Solving, Exploring Data in R & Python, Intro to Software Engineering, Information Assurance, Data Structures and Algorithms, Applied Linear Algebra, Intro to Programming Languages, Computer Org/Assembly Language, Discrete Math Structures, Object Oriented Programming and Data Structures, Digital Design Fundamentals, Principles of Programming, Undergraduate Research, Calculus I with Analytical Geometry, Calcukus II for Engineers, Calculus III for Engineers
