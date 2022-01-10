@@ -45,6 +45,7 @@ Arizona State University (Tempe, AZ)	08/2019 – Present
 **Computer Science, BS**
 - Dean’s List (GPA > 3.5)
 - Anticipated graduation: December 2022
+- Related coursework:Principles of Programming Languages, Intro to Software Engineering, Database Management, Information Assurance, Intro to Theoretical Computer Science, Operating Systems, Software QA & Testing, Exploring Data in R and Python, Probability and Statistics & Engineer Problem Solving, Data Structures and Algorithms, Applied Linear Algebra, Discrete Math Structures, Object Oriented Programming and Data Structures, Computer Org/Assembly Language, Programming Languages (C++, C, Prolog, Scheme), Principles of Programming, Analytical Geometry and Calculus I, Calculus II, Multivariate & Vector Calculus
 <br><br>
 
 
