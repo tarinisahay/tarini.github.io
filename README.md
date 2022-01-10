@@ -45,7 +45,6 @@ Arizona State University (Tempe, AZ)	08/2019 – Present
 **Computer Science, BS**
 - Dean’s List (GPA > 3.5)
 - Anticipated graduation: December 2022
-- Related coursework:Principles of Programming Languages, Intro to Software Engineering, Database Management, Information Assurance, Intro to Theoretical Computer Science, Operating Systems, Software QA & Testing, Exploring Data in R and Python, Probability and Statistics & Engineer Problem Solving, Data Structures and Algorithms, Applied Linear Algebra, Discrete Math Structures, Object Oriented Programming and Data Structures, Computer Org/Assembly Language, Programming Languages (C++, C, Prolog, Scheme), Principles of Programming, Analytical Geometry and Calculus I, Calculus II, Multivariate & Vector Calculus
 <br><br>
 
 
@@ -81,4 +80,4 @@ Arizona State University (Tempe, AZ)	08/2019 – Present
 <br><br>
 
 ### 📚Coursework
-Operating Systems, Principles of Programming Languages, Intro to Theoretical Computer Science, Database Management, Intro to Human Computer Interaction, Probability & Statistics Engineer Problem Solving, Exploring Data in R & Python, Intro to Software Engineering, Information Assurance, Data Structures and Algorithms, Applied Linear Algebra, Intro to Programming Languages, Computer Org/Assembly Language, Discrete Math Structures, Object Oriented Programming and Data Structures, Digital Design Fundamentals, Principles of Programming, Undergraduate Research, Calculus I with Analytical Geometry, Calcukus II for Engineers, Calculus III for Engineers
+Operating Systems, Principles of Programming Languages, Intro to Theoretical Computer Science, Database Management, Probability & Statistics Engineer Problem Solving, Exploring Data in R & Python, Intro to Software Engineering, Information Assurance, Data Structures and Algorithms, Software QA and Testing, Applied Linear Algebra, Intro to Programming Languages, Computer Org/Assembly Language, Discrete Math Structures, Object Oriented Programming and Data Structures, Digital Design Fundamentals, Principles of Programming, Undergraduate Research, Calculus I with Analytical Geometry, Calcukus II for Engineers, Calculus III for Engineers
