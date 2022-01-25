@@ -23,7 +23,7 @@
 **Team Lead @ Arizona State University Biodesign Institute**                      01/2021 – 12/2021
 - Tools used: R, SQL, Google Suite, Excel
 - Led a project and research paper on phylogenetics to understand how body size evolution affects cancer prevalence in mammals, sauropsids, and amphibians
-- Worked with different teams to implement our findings on different projects
+- Collabored with other teams to implement our findings on different projects
 - Co-authored a paper on the bottleneck effect in relation to measuring the degree of inbreeding/homozygosity and its correlation to cancer prevalence
 
 
