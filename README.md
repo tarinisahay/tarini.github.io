@@ -21,13 +21,15 @@
 
 
 **Team Lead @ Arizona State University Biodesign Institute**                      01/2021 – 12/2021
+- Tools used: R, SQL, Google Suite, Excel
 - Led a project and research paper on phylogenetics to understand how body size evolution affects cancer prevalence in mammals, sauropsids, and amphibians
-- Used ML regression plots of ancestral state reconstruction, using fastAnc, contMap, dplyr, etc
+- Worked with different teams to implement our findings on different projects
+- Co-authored a paper on the bottleneck effect in relation to measuring the degree of inbreeding/homozygosity and its correlation to cancer prevalence
 
 
 **Research Assistant @ Arizona State University Biodesign Institute**			                                  04/2020 – 12/2021
+- Tools used: R, SQL, Google Suite, Excel
 - Worked with a team of 20+ undergraduate and graduate students, and researchers at [Arizona Cancer Evolution Center](https://cancer-insights.asu.edu)
--	Used R and Excel to filter, organize, and display data
 -	Performed statistical and graphical analysis using R as well as created models for analysis
 -	Led tutorial on phytools package for 18 lab members
     - Topics included: Brownian motion, creating and understanding graphs, and creating vectors
