@@ -2,7 +2,7 @@
 **Sunnyvale, CA / [Email](tarinisahay2001@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tarinisahay) / [GitHub](https://www.github.com/tarinisahay)**
 
 ### 👩🏻‍💻 Experience
-**Incoming Technical Program Manager @ Palo Alto Networks**	&emsp						                              Incoming May 2022
+**Incoming Technical Program Manager @ Palo Alto Networks**    Incoming May 2022
 - Prisma Access + Cloud Management Team
 
 **Software Engineer Intern @ RapidAI**							                                                      08/2021 – 09/2021
