@@ -1,5 +1,5 @@
 ## Tarini Sahay
-**Sunnyvale, CA / [Email](tarinisahay2001@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tarinisahay) / [GitHub](https://www.github.com/tarinisahay)**
+**Sunnyvale, CA / [Email](www.tarinisahay2001@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tarinisahay) / [GitHub](https://www.github.com/tarinisahay)**
 
 ### 👩🏻‍💻 Experience
 **Incoming Technical Program Manager @ Palo Alto Networks**    Incoming May 2022
