@@ -2,7 +2,7 @@
 **Sunnyvale, CA / [LinkedIn](https://www.linkedin.com/in/tarinisahay) / [GitHub](https://www.github.com/tarinisahay)**
 
 ### 👩🏻‍💻 Experience
-**Incoming Technical Program Manager Intern @ Palo Alto Networks**    Incoming May 2022
+**Technical Program Manager Intern @ Palo Alto Networks**    May 2022 - Present
 - Prisma Access + Cloud Management Team
 
 **Software Engineer Intern @ RapidAI**							                                                      08/2021 – 09/2021
