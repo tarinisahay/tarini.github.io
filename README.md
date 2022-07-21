@@ -5,6 +5,12 @@
 **Technical Program Manager Intern @ Palo Alto Networks**    May 2022 - Present
 - Prisma Access + Cloud Management Team
 
+**Product Management Intern @ DevLaunchers** May 2022 - Present
+- Overseeing the development stages of an open-source platform geared towards education in technology and programming
+- Defining goals and vision of the platform while creating a product roadmap and product requirements
+- Managing and prioritizing the product backlogs for sprints and weekly scrum meetings
+- Assessing the needs of our customers by conducting user and feature research
+
 **Software Engineer Intern @ RapidAI**							                                                      08/2021 – 09/2021
 - Tools used: TypeScript, GitHub, Confluence, Jira
 - Developed script to map keys from multiple JSON files and return overlaps between the files
@@ -23,15 +29,11 @@
     - Measured the performance of the cloud apps team from development to release, to increase efficiency and identify areas of improvement
 
 
-**Team Lead @ Arizona State University Biodesign Institute**                      01/2021 – 12/2021
+**Team Lead @ Arizona State University Biodesign Institute**                      04/2020 – 12/2021
 - Tools used: R, SQL, Google Suite, Excel
 - Led a project and research paper on phylogenetics to understand how body size evolution affects cancer prevalence in mammals, sauropsids, and amphibians
 - Collabored with other teams to implement our findings on different projects
 - Co-authored a paper on the bottleneck effect in relation to measuring the degree of inbreeding/homozygosity and its correlation to cancer prevalence
-
-
-**Research Assistant @ Arizona State University Biodesign Institute**			                                  04/2020 – 12/2021
-- Tools used: R, SQL, Google Suite, Excel
 - Worked with a team of 20+ undergraduate and graduate students, and researchers at [Arizona Cancer Evolution Center](https://cancer-insights.asu.edu)
 -	Performed statistical and graphical analysis using R as well as created models for analysis
 -	Led tutorial on phytools package for 18 lab members
@@ -40,7 +42,7 @@
 
 
 ### 🎯 Skills
-Java, MATLAB, C++, R-programming, Python, Linux, SQL, TestRail, Jira, Confluence, Microsoft Office, Google Suite, Typescript, GitHub, Javascript, Agile methodologies, plan driven methodologies, Astah, Microsoft Projects, JavaFX, JUnit
+Java, MATLAB, C++, R-programming, Python, Linux, SQL, TestRail, Jira, Confluence, Microsoft Office, Google Suite, Typescript, GitHub, Javascript, Agile methodologies, plan driven methodologies, Astah, Microsoft Projects, JavaFX, JUnit, Aha!, Monday.com, Jira Align
 <br><br>
 
 
@@ -85,4 +87,4 @@ Arizona State University (Tempe, AZ)	08/2019 – Present
 <br><br>
 
 ### 📚Coursework
-Operating Systems, Principles of Programming Languages, Intro to Theoretical Computer Science, Database Management, Probability & Statistics Engineer Problem Solving, Exploring Data in R & Python, Intro to Software Engineering, Information Assurance, Data Structures and Algorithms, Software QA and Testing, Applied Linear Algebra, Intro to Programming Languages, Computer Org/Assembly Language, Discrete Math Structures, Object Oriented Programming and Data Structures, Digital Design Fundamentals, Principles of Programming, Undergraduate Research, Calculus I with Analytical Geometry, Calculus II for Engineers, Calculus III for Engineers
+Computer Science Capstone Project, Multimedia Information Systems, Computer Architecture I, Operating Systems, Principles of Programming Languages, Intro to Theoretical Computer Science, Database Management, Probability & Statistics Engineer Problem Solving, Foundations of Data Visualization, Math Tools for Data Science, Exploring Data in R & Python, Intro to Software Engineering, Information Assurance, Data Structures and Algorithms, Software QA and Testing, Applied Linear Algebra, Intro to Programming Languages, Computer Org/Assembly Language, Discrete Math Structures, Object Oriented Programming and Data Structures, Digital Design Fundamentals, Principles of Programming, Undergraduate Research, Calculus I with Analytical Geometry, Calculus II for Engineers, Calculus III for Engineers
