@@ -3,7 +3,7 @@
 
 ### 👩🏻‍💻 Experience
 **Technical Program Manager Intern @ Palo Alto Networks**    May 2022 - Present
-- Prisma Access + Cloud Management Team
+- Prisma Access + Cloud Management, Product Operations
 
 **Product Management Intern @ DevLaunchers** May 2022 - Present
 - Overseeing the development stages of an open-source platform geared towards education in technology and programming
@@ -87,4 +87,4 @@ Arizona State University (Tempe, AZ)	08/2019 – Present
 <br><br>
 
 ### 📚Coursework
-Computer Science Capstone Project, Multimedia Information Systems, Computer Architecture I, Operating Systems, Principles of Programming Languages, Intro to Theoretical Computer Science, Database Management, Probability & Statistics Engineer Problem Solving, Foundations of Data Visualization, Math Tools for Data Science, Exploring Data in R & Python, Intro to Software Engineering, Information Assurance, Data Structures and Algorithms, Software QA and Testing, Applied Linear Algebra, Intro to Programming Languages, Computer Org/Assembly Language, Discrete Math Structures, Object Oriented Programming and Data Structures, Digital Design Fundamentals, Principles of Programming, Undergraduate Research, Calculus I with Analytical Geometry, Calculus II for Engineers, Calculus III for Engineers
+Computer Network Security, Multimedia Information Systems, Social Media Mining, Entrepreneur & Value Creation, Capstone I, Capstone II, Principles of Programming Languages, Intro to Software Engineering, Database Management, Information Assurance, Intro to Theoretical Computer Science, Operating Systems, Software QA & Testing, Exploring Data in R and Python, Probability and Statistics & Engineer Problem Solving, Data Structures and Algorithms, Applied Linear Algebra, Discrete Math Structures, Object Oriented Programming and Data Structures, Computer Org/Assembly Language, Programming Languages (C++, C, Prolog, Scheme), Principles of Programming, Analytical Geometry and Calculus I, Calculus II, Multivariate & Vector Calculus
